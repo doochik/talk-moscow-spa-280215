@@ -6,14 +6,14 @@ relative_permalinks: false
 
 default_theme: ribbon
 default_width: 792
-default_lang: en
+default_lang: ru
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Алексей Андросов
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: Яндекс.Почта
         # url:  http://example.com/
 
 fork_url: https://github.com/shower/shower
